@@ -29,5 +29,3 @@ code .
 [MIT]()
 
 ## Project Image
-
-![Project Image](adsız.png)
